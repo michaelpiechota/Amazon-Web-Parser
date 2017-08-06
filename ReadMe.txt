@@ -1,6 +1,6 @@
 MAIN COLOR ANALYZER:
 This was developed for the company Tint. 
-This function determines the main color (not average) of images parsed from Amazon.com
+This function determines the main color (not average) of base64 image binaries parsed from Amazon.com (from the web parser in this repo).
 It is designed to ignore white backgrounds. 
 
 --
